@@ -22,6 +22,7 @@
 </ul>
 
 <h5>I have knowledge in these languages:</h5>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/js.png"></code>
+<code><img height="20" src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/html5.png"></code>
+<code><img height="20" src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/css.png"></code>

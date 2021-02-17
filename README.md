@@ -14,7 +14,7 @@
 
 ---
 
-**Some personal stuffs:**
+<h2>Some personal stuffs:</h2>
 <ul>
   <li>📗 The language I most dominate today is LUA;</li>
   <li>📘 I want to learn a lot about C# and C++;</li>

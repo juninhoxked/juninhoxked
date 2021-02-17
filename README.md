@@ -10,7 +10,7 @@
 </a>
 <br/>
 
-<h4>Hi, I'm Aparecido Junior, a student of system development from Brazil 🇧🇷. I am currently trained as a mechanic technician, but I am addicted and passionate about system development, and I am always studying programming!</h4>
+<h4>Hi, I'm Aparecido Junior, a student of system development from Brazil. I am currently trained as a mechanic technician, but I am addicted and passionate about system development, and I am always studying programming!</h4>
 
 ---
 

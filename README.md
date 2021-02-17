@@ -17,5 +17,5 @@ _Hi, I'm Aparecido Junior, a student of system development from Brazil 🇧🇷.
 <ul>
   <li>📗 The language I most dominate today is LUA;</li>
   <li>📘 I want to learn a lot about C# and C++;</li>
-  <li>💬 Ask me about anything, you can contact me on <a href="https://twitter.com/aparecidojrr">@aparecidojrr</a>.</li>
+  <li>💬 Ask me about anything, you can contact me on <a href="https://www.facebook.com/aparecido.juninho.37/">Aparecido Junior</a>.</li>
 </ul>

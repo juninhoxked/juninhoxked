@@ -1,5 +1,4 @@
-# Hello everyone! <img src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/hello.gif" width="50"/>
-<a href="https://discord.gg/TFuVjWPzzz">
+# Hello everyone! <img src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/hello.gif" width="50"/><a href="https://discord.gg/TFuVjWPzzz">
   <img align="left" alt="Aparecido Junior Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/aparecidojrr">

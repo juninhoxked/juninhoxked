@@ -1,6 +1,5 @@
 # Hello everyone! <img src="https://github.com/juninhoxked/juninhoxked/blob/main/assets/hello.gif" width="50"/>
 _Hi, I'm Aparecido Junior, a student of system development from Brazil 🇧🇷. I am currently trained as a mechanic technician, but I am addicted and passionate about system development, and I am always studying programming!_
-<br />
 ---
 <h2> Some personal stuffs: </h2> 
 <ul>

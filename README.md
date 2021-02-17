@@ -3,7 +3,7 @@
   <img align="left" alt="Aparecido Junior Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/aparecidojrr">
-  <img align="left" alt="Aparecido Junior Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aparecido Junior Twitter" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F757308493581875240%2F&psig=AOvVaw0hhDY1iaIE7eks1VIvNlCq&ust=1613681206162000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiajorl8e4CFQAAAAAdAAAAABAO" />
 </a>
 <a href="https://www.instagram.com/aparecido.jr/">
   <img align="left" alt="Aparecido Junior Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

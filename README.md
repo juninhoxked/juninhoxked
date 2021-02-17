@@ -2,8 +2,8 @@
 <a href="https://discord.gg/TFuVjWPzzz">
   <img align="left" alt="Aparecido Junior Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/aparecidojrr">
-  <img align="left" alt="Aparecido Junior Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg/" />
+<a href="https://twitter.com/igoralonge">
+  <img align="left" alt="Igor Oliveira's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/aparecido.jr/">
   <img align="left" alt="Aparecido Junior Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

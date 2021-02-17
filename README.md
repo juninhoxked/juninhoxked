@@ -7,7 +7,8 @@
 </a>
 <a href="https://www.instagram.com/aparecido.jr/">
   <img align="left" alt="Aparecido Junior Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br />
+</a>
+<br />
 _Hi, I'm Aparecido Junior, a student of system development from Brazil 🇧🇷. I am currently trained as a mechanic technician, but I am addicted and passionate about system development, and I am always studying programming!_
 
 <h2> Some personal stuffs: </h2> 

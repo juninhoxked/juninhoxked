@@ -14,9 +14,11 @@
 
 ---
 
-<h2>Some personal stuffs:</h2>
+<h3>Some personal stuffs:</h3>
 <ul>
   <li>📗 The language I most dominate today is LUA;</li>
   <li>📘 I want to learn a lot about C# and C++;</li>
   <li>💬 Ask me about anything, you can contact me on <a href="https://www.facebook.com/aparecido.juninho.37/">Aparecido Junior</a>.</li>
 </ul>
+
+<h3>I have knowledge in these languages:</h3>
